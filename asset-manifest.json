@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sellgame/static/css/main.5f361e03.chunk.css",
+    "main.js": "/sellgame/static/js/main.6597558d.chunk.js",
+    "main.js.map": "/sellgame/static/js/main.6597558d.chunk.js.map",
+    "runtime-main.js": "/sellgame/static/js/runtime-main.211aa92b.js",
+    "runtime-main.js.map": "/sellgame/static/js/runtime-main.211aa92b.js.map",
+    "static/js/2.851ac608.chunk.js": "/sellgame/static/js/2.851ac608.chunk.js",
+    "static/js/2.851ac608.chunk.js.map": "/sellgame/static/js/2.851ac608.chunk.js.map",
+    "index.html": "/sellgame/index.html",
+    "precache-manifest.ac8846b90e03bdcdc4395e0450c49b43.js": "/sellgame/precache-manifest.ac8846b90e03bdcdc4395e0450c49b43.js",
+    "service-worker.js": "/sellgame/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/sellgame/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.851ac608.chunk.js.LICENSE.txt": "/sellgame/static/js/2.851ac608.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/sellgame/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.211aa92b.js",
+    "static/js/2.851ac608.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.6597558d.chunk.js"
+  ]
+}
