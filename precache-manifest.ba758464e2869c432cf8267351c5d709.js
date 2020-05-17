@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b9f45366b16ea9e9446d484c38c91753",
+    "revision": "65388482a718eafbb2c91717d148400e",
     "url": "/sellgame/index.html"
   },
   {
-    "revision": "4ca8118a64ce64bbea2f",
+    "revision": "57f66cb4e7279a9c4cf2",
     "url": "/sellgame/static/css/2.13c6718b.chunk.css"
   },
   {
-    "revision": "5664b03db7111a19602e",
+    "revision": "7b946be0fc5c2e03b3f2",
     "url": "/sellgame/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "4ca8118a64ce64bbea2f",
-    "url": "/sellgame/static/js/2.d7888a1c.chunk.js"
+    "revision": "57f66cb4e7279a9c4cf2",
+    "url": "/sellgame/static/js/2.16c5f6e3.chunk.js"
   },
   {
-    "revision": "c87550333da8df8ab4c80bd1d6e9defb",
-    "url": "/sellgame/static/js/2.d7888a1c.chunk.js.LICENSE.txt"
+    "revision": "f925ff808c907f1e05af05a547934faf",
+    "url": "/sellgame/static/js/2.16c5f6e3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5664b03db7111a19602e",
-    "url": "/sellgame/static/js/main.2d44848a.chunk.js"
+    "revision": "7b946be0fc5c2e03b3f2",
+    "url": "/sellgame/static/js/main.c3d47916.chunk.js"
   },
   {
     "revision": "c08be747bfef2a9090e5",
     "url": "/sellgame/static/js/runtime-main.211aa92b.js"
+  },
+  {
+    "revision": "dc372a07777e87891aaac087cfbe60ad",
+    "url": "/sellgame/static/media/arrow-right.dc372a07.svg"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
