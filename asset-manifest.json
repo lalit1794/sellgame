@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/sellgame/static/css/main.5f361e03.chunk.css",
-    "main.js": "/sellgame/static/js/main.c3d47916.chunk.js",
-    "main.js.map": "/sellgame/static/js/main.c3d47916.chunk.js.map",
-    "runtime-main.js": "/sellgame/static/js/runtime-main.211aa92b.js",
-    "runtime-main.js.map": "/sellgame/static/js/runtime-main.211aa92b.js.map",
-    "static/css/2.13c6718b.chunk.css": "/sellgame/static/css/2.13c6718b.chunk.css",
-    "static/js/2.16c5f6e3.chunk.js": "/sellgame/static/js/2.16c5f6e3.chunk.js",
-    "static/js/2.16c5f6e3.chunk.js.map": "/sellgame/static/js/2.16c5f6e3.chunk.js.map",
-    "index.html": "/sellgame/index.html",
-    "precache-manifest.82ea2917d44ef2a267e4948990ce0a66.js": "/sellgame/precache-manifest.82ea2917d44ef2a267e4948990ce0a66.js",
-    "service-worker.js": "/sellgame/service-worker.js",
-    "static/css/2.13c6718b.chunk.css.map": "/sellgame/static/css/2.13c6718b.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/sellgame/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.16c5f6e3.chunk.js.LICENSE.txt": "/sellgame/static/js/2.16c5f6e3.chunk.js.LICENSE.txt",
-    "static/media/arrow-right.svg": "/sellgame/static/media/arrow-right.dc372a07.svg",
-    "static/media/logo.svg": "/sellgame/static/media/logo.f9776f55.svg",
-    "static/media/menu.svg": "/sellgame/static/media/menu.ca394ec8.svg",
-    "static/media/x.svg": "/sellgame/static/media/x.b0200bf7.svg"
+    "main.css": "/static/css/main.5f361e03.chunk.css",
+    "main.js": "/static/js/main.d9a0aa5b.chunk.js",
+    "main.js.map": "/static/js/main.d9a0aa5b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0cdada11.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0cdada11.js.map",
+    "static/css/2.13c6718b.chunk.css": "/static/css/2.13c6718b.chunk.css",
+    "static/js/2.80a3e07c.chunk.js": "/static/js/2.80a3e07c.chunk.js",
+    "static/js/2.80a3e07c.chunk.js.map": "/static/js/2.80a3e07c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.305d0d9b1fb139b9ce1c5e7470d8c529.js": "/precache-manifest.305d0d9b1fb139b9ce1c5e7470d8c529.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.13c6718b.chunk.css.map": "/static/css/2.13c6718b.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.80a3e07c.chunk.js.LICENSE.txt": "/static/js/2.80a3e07c.chunk.js.LICENSE.txt",
+    "static/media/arrow-right.svg": "/static/media/arrow-right.dc372a07.svg",
+    "static/media/logo.svg": "/static/media/logo.f9776f55.svg",
+    "static/media/menu.svg": "/static/media/menu.ca394ec8.svg",
+    "static/media/x.svg": "/static/media/x.b0200bf7.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.211aa92b.js",
+    "static/js/runtime-main.0cdada11.js",
     "static/css/2.13c6718b.chunk.css",
-    "static/js/2.16c5f6e3.chunk.js",
+    "static/js/2.80a3e07c.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.c3d47916.chunk.js"
+    "static/js/main.d9a0aa5b.chunk.js"
   ]
 }
