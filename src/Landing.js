@@ -20,7 +20,7 @@ import Header, { NavLinks } from "./headers/light.js";
 // `;
 
 const Actions = styled.div`
-  ${tw`relative max-w-lg text-center mx-auto lg:mx-0`}
+  ${tw`relative max-w-2xl text-center mx-auto lg:mx-0 lg:w-2/4`}
   input {
     ${tw`sm:pr-48 pl-8 py-4 sm:py-5 rounded-full border-2 w-full font-medium focus:outline-none transition duration-300  focus:border-indigo-500 hover:border-gray-500`}
   }
@@ -69,10 +69,10 @@ export default () => {
         
         <Content>
           <Heading>
-              Buy Game Accounts
+              <span tw="text-indigo-500">Buy Game Accounts  </span> <br></br> in 3 simple steps
           </Heading>
           <Description>Select Game <FeatureIcon /> Select Account <FeatureIcon /> Buy Account</Description>
-          <Actions >
+          <Actions>
           <Formik
             initialValues={{ email: "" }}
             onSubmit={async values => {
@@ -82,8 +82,8 @@ export default () => {
                   body: JSON.stringify({ title: 'React POST Request Example', email: values.email })
               };
               const response = await fetch('https://app.99inbound.com/api/e/XiJNjIXz', requestOptions);
-              const data = await response.json();
-              alert("Cool!! We'll let you know pretty soon.");
+              // const data = await response.json();
+              alert("Cool!! We'll get back to you pretty soon.");
             }}
           >
             {props => {
@@ -111,7 +111,7 @@ export default () => {
                   )}
 
                   <button type="submit" disabled={isSubmitting}>
-                    Submit
+                    Notify
                   </button>
 
                 </form>
@@ -119,6 +119,7 @@ export default () => {
             }}
           </Formik>
           </Actions>
+          <Description>Share your email and we'll let you know once we're live.</Description>
         </Content>
       </HeroContainer>
     </Container>
